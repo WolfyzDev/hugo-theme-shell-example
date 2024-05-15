@@ -1,11 +1,11 @@
 baseURL = "https://hugo-theme-shell.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Wolfyz Terminal"
 theme = "hugo-theme-shell"
 
 [Params]
     [Params.Terminal]
-    schema = "monokai"
+    schema = "dracula"
 
     [Params.Tree]
     use = true
